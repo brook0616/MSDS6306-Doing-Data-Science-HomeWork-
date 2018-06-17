@@ -13,10 +13,12 @@ output: html_document
 ### a. Install the fivethirtyeight package.
  ```{r eval}
 ```
-<!---
+
 install.packages("fivethirtyeight")
--->
- ### The package is installed from the package tab 
+
+### I would like to thank fivethirtyeight for the case study data 
+
+### The package is installed from the package tab 
      the synthax is commented out in rmd file 
  
 ### b. In the listing of Data sets in package fivethirtyeight, assign the 22nd     data set to an object 
